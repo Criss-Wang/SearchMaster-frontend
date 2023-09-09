@@ -6,4 +6,4 @@ Key Features
     - only allow url to change the page states, not the reverse
     - when url has `search=xxx`, then need to fill search panel with `xxx`, even when change tabs
     - need to listen to url changes to update the page states
-2. 
+2. using axios for request handling
